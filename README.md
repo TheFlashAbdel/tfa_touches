@@ -1,2 +1,6 @@
-# tfa_touches
-tfa_touches : Menu Touches pour serveur FiveM en RageUI
+Nom du script : tfa_touches
+Créateur : TheFlashAbdel
+Langue : FR
+
+Credits :
+RageUI = https://github.com/iTexZoz/RageUI
